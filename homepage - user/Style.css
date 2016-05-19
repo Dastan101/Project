@@ -1,0 +1,38 @@
+.jumbotron{
+	background-color: #772E00;
+	}
+
+.jumbotron .container h1{
+	cursor: pointer;
+	}
+.jumbotron .container h2{
+	cursor: pointer;
+	}
+
+.navbar{
+	margin-bottom: 0;
+	}
+
+.navbar .navbar-default .navbar-static-top{
+	background-color:#225E52;
+	}
+
+
+.jumbotron .container h1{
+	color: #DD8047;
+	}
+
+.jumbotron .container h1:hover{
+	color: #FFE2D1;
+	}
+
+body{
+		background-color: #225E52;
+	}
+
+footer .container p a{
+	color: white;	
+}
+.modal-title{
+	
+}
